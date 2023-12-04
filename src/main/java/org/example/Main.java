@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
-        Dog dog1 = new Dog("ハチ" , 6);
+        Dog dog1 = new Dog("クロ" , 6);
         System.out.println("名前は：" + dog1.getName() + "です。");
         System.out.println("年齢は：" + dog1.getAge() + "歳です。");
 
