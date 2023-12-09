@@ -24,7 +24,7 @@ public class Main {
             System.out.println(entry.getValue());
         }
 
-        String targetKey = "Q";
+        String targetKey = "R";
         try {
             String japaneseDescription = getMusicalKeyDescription(musicalKeysMap, targetKey);
             System.out.println(japaneseDescription);
